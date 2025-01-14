@@ -1,4 +1,3 @@
-
 # Configuring undervolt on MSI laptops
 Undervoltage can be useful to reduce power consumption and CPU load. For my experience, laptops have a small margin of undervolt, since CPU are already configured with good values. Depending on the brand and model, one can achieve different values of undervolting. In my case, I found that a safe value for my CPU is $-65mV$. I tried several values up to $-125mV$ and experienced random freezes.
 
