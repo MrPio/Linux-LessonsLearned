@@ -6,7 +6,7 @@ Undervolting can also be done directly from Windows using third party software l
 ## Undervolting from the BIOS
 From now on, please note that this procedure is specific to Intel processor and some parts may vary on different models.
  
-Boot you pc. While the MSI logo is showing, press the `Canc`/`Del` key one or more times. Now access the advanced BIOS using `right-CTRL`+`right-SHIFT`+`left_ALT`+`F2` (it may differ slightly on different models). You can tell you've entered the advanced BIOS because many entries are displayed.
+Boot you pc. While the MSI logo is showing, press the `Canc`/`Del` key one or more times. Now access the advanced BIOS using `right_CTRL`+`right_SHIFT`+`left_ALT`+`F2` (it may differ slightly on different models). You can tell you've entered the advanced BIOS because many entries are displayed.
 
 Now, in the *Advanced* tab, locate ther *Overclocking Performance Menu*.
 
